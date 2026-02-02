@@ -4,4 +4,3 @@
 - I am currently building upon my skills from my short course including Excel, MySQL, PowerBI and Python 📑
 - My hobbies include cosplay, video games and yoga 👽
 
--->
